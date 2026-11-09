@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T09:58:59.517039+00:00",
-  "totalJobs": 591,
+  "lastUpdated": "2026-11-09T11:05:42.211561+00:00",
+  "totalJobs": 590,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -10,6 +10,81 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
+      "company": "Harvey",
+      "position": "Technical CX Specialist, EMEA",
+      "location": "Dublin",
+      "locations": [
+        "Dublin"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "source": "Ashby",
+      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "postedAt": "2026-11-09T09:43:25.146+00:00",
+      "tags": [
+        "Claude Code",
+        "MCP"
+      ],
+      "companyIcon": "https://harvey.ai/favicon.ico"
+    },
+    {
+      "id": "gr-quintoandar-4472905009",
+      "company": "Grupo QuintoAndar",
+      "position": "Grupo QuintoAndar | Staff Software Engineer 2",
+      "location": "Brasil",
+      "locations": [
+        "Brasil"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
+      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4472905009",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4472905009",
+      "postedAt": "2026-11-09T05:19:53-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Kotlin",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-quintoandar-4471917009",
+      "company": "Grupo QuintoAndar",
+      "position": "Grupo QuintoAndar | Staff Software Engineer",
+      "location": "Brasil",
+      "locations": [
+        "Brasil"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
+      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
+      "postedAt": "2026-11-09T05:16:23-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Kotlin",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "gr-hook-8922828002",
       "company": "Hook",
@@ -1600,27 +1675,6 @@
         "MCP"
       ],
       "companyIcon": "https://fivetran.com/favicon.ico"
-    },
-    {
-      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
-      "company": "Harvey",
-      "position": "Technical CX Specialist, EMEA",
-      "location": "Dublin",
-      "locations": [
-        "Dublin"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
-      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "postedAt": "2026-11-05T08:57:20.409+00:00",
-      "tags": [
-        "Claude Code",
-        "MCP"
-      ],
-      "companyIcon": "https://harvey.ai/favicon.ico"
     },
     {
       "id": "gr-grafanalabs-6092955004",
@@ -3276,31 +3330,6 @@
       "companyIcon": "https://monzo.com/favicon.ico"
     },
     {
-      "id": "gr-kimchi-4425607009",
-      "company": "Kimchi",
-      "position": "Sales Engineer | Kimchi | EMEA",
-      "location": "EMEA · European Union",
-      "locations": [
-        "EMEA",
-        "European Union"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Why Kimchi? Kimchi is the enterprise AI coding platform from Cast AI , the automation company behind cloud-native infrastructure optimization for 2,100+ organizations, including Akamai, BMW, Cisco, and HuggingFace. We took six years of autonomous-infrastructure engineering and pointed it at how...",
-      "applyUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "postedAt": "2026-11-03T04:56:39-05:00",
-      "tags": [
-        "Claude Code",
-        "Kubernetes",
-        "Cursor",
-        "Copilot",
-        "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "as-temporal-dfa01032-82b4-443f-bfdc-1a20bd976b9c",
       "company": "Temporal",
       "position": "Senior Staff Software Engineer - Builder Platform",
@@ -3954,19 +3983,19 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "gr-fivetran-7823195003",
+      "id": "gr-fivetran-7859203003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Oakland, California, United States",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Oakland, California, United States"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "postedAt": "2026-11-02T14:51:30-05:00",
       "tags": [
         "Claude Code",
@@ -4901,19 +4930,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8281479",
+      "id": "gr-samsara-7917475",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - NYC",
+      "location": "Remote - SF Bay Area",
       "locations": [
-        "Remote - NYC"
+        "Remote - SF Bay Area"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
       "postedAt": "2026-10-30T11:22:26-04:00",
       "tags": [
         "Claude Code",
@@ -5118,33 +5147,6 @@
         "Python"
       ],
       "companyIcon": "https://fivetran.com/favicon.ico"
-    },
-    {
-      "id": "gr-quintoandar-4471917009",
-      "company": "Grupo QuintoAndar",
-      "position": "Grupo QuintoAndar | Staff Software Engineer",
-      "location": "Brasil",
-      "locations": [
-        "Brasil"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
-      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
-      "postedAt": "2026-10-30T07:29:50-04:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Python",
-        "Go",
-        "Node.js",
-        "AWS",
-        "Kotlin",
-        "Java"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "as-statisfy-2706b69d-b145-479b-b59d-b6dae59e5ae7",
@@ -5479,32 +5481,6 @@
         "TypeScript",
         "JavaScript",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "as-ameba-4804d0c1-b195-4632-9c88-c1b63a857727",
-      "company": "Ameba",
-      "position": "Founding Software Engineer (Senior Software Engineer)",
-      "location": "London",
-      "locations": [
-        "London"
-      ],
-      "remote": false,
-      "salary": "£100K – £130K • 1% – 2%",
-      "description": "Founding Software Engineer at Ameba\n\nEngineering at Ameba is a rare opportunity to build cutting-edge software in a traditional industry, while being generously rewarded for your contributions. If you’ve never considered working in supply chains before, everything around you, including the device...",
-      "applyUrl": "https://jobs.ashbyhq.com/ameba/4804d0c1-b195-4632-9c88-c1b63a857727",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/ameba/4804d0c1-b195-4632-9c88-c1b63a857727",
-      "postedAt": "2026-10-29T16:34:48.236+00:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "TypeScript",
-        "Python",
-        "AWS",
-        "Kotlin",
-        "Java"
       ],
       "companyIcon": ""
     },
@@ -6635,7 +6611,7 @@
         "Burnaby"
       ],
       "remote": false,
-      "salary": "CA$25 – CA$28 per hour",
+      "salary": "CA$20 per hour",
       "description": "🎨 OpusClip https://www.opus.pro is the world's No.1 AI video agent, built for authenticity on social media.\n\nWe envision a world where everyone can authentically share their story through video, with no expertise needed. Within just 18 months of our launch, over 20 million creators and businesses...",
       "applyUrl": "https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818",
       "source": "Ashby",
